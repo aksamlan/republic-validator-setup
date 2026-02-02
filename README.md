@@ -222,7 +222,7 @@ Monitor the logs until your block height matches the explorer. Once synced, you 
 republicd status --node tcp://localhost:51657 | jq '.sync_info'
 ```
 
-**Explorer**: https://explorer.republicai.io/blocks
+**Explorer**: https://explorer.husonode.xyz/Republic/block
 
 ---
 
@@ -277,7 +277,7 @@ republicd tx staking create-validator validator.json \
 -y
 ```
 
-**Verify on Explorer**: https://explorer.republicai.io/validators
+**Verify on Explorer**: https://explorer.husonode.xyz/Republic/staking
 
 ---
 
