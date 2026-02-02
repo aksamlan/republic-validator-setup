@@ -1,0 +1,46 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor directories
+.vscode/
+.idea/
+*.sublime-*
+
+# Backup files
+*.backup
+*.bak
+*.old
+
+# Log files
+*.log
+logs/
+
+# Private keys and sensitive data
+*.key
+*.pem
+priv_validator_key.json
+node_key.json
+mnemonic.txt
+
+# Test files
+test/
+*.test
+
+# Build artifacts
+*.tar.gz
+*.zip
+*.rpm
+*.deb
+
+# Node data
+.republicd/
+republicd
+
+# Temporary files
+tmp/
+temp/
+*.tmp
