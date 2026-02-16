@@ -90,7 +90,7 @@ source $HOME/.bash_profile
 ### 5. Download Binary
 
 ```bash
-VERSION="v0.2.1"
+VERSION="v0.3.0"
 
 mkdir -p $HOME/.republicd/cosmovisor/genesis/bin
 
