@@ -149,7 +149,7 @@ configure_env() {
 install_binary() {
     print_message "Downloading Republic AI binary..."
     
-    VERSION="v0.2.1"
+    VERSION="v0.3.0"
     mkdir -p $HOME/.republicd/cosmovisor/genesis/bin
     
     cd $HOME
